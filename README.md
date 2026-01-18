@@ -37,12 +37,12 @@
 - Форум за обсъждане на различни теми и споделяне на съдържание, с възможност за добавяне на приятели.  
 - Възможности за участие в събития, абонамент за нови събития и социално взаимодействие.
 
-Подробният документ за Функционалните изисквания можете да намерите тук: [https://docs.google.com/document/d/1a7h_SEq1r37aBtyJ1T8qvlI15MWODdD7viptVT-TudE/edit?usp=sharing]  
+Подробният документ за Функционалните изисквания можете да намерите [тук](https://docs.google.com/document/d/1a7h_SEq1r37aBtyJ1T8qvlI15MWODdD7viptVT-TudE/edit?usp=sharing)
 
 ## Архитектурни изисквания
 Документът с архитектурни изисквания описва структурата на приложението, използваните технологии и основните компоненти за фронтенд и бекенд.
 
-Подробният документ за Архитектурните изисквания можете да намерите тук: [https://docs.google.com/document/d/1mMKWRaCf54_ynMVazm-1bnn3wUWyY9XvVfNsEXxteHg/edit?usp=sharing]
+Подробният документ за Архитектурните изисквания можете да намерите [тук](https://docs.google.com/document/d/1mMKWRaCf54_ynMVazm-1bnn3wUWyY9XvVfNsEXxteHg/edit?usp=sharing)
 
 ## Система за препоръки за събития
 
@@ -51,12 +51,12 @@
 > ⚠️ В момента системата е **в процес на разработка**.  
 > В нашия проект, системата ще подпомага родителите да откриват събития, подходящи за тях и техните деца, без да ги търсят ръчно.
 
-Линк към документация за изпозлвания хибриден подход за модела за препоръки можете да намерите тук: [https://docs.google.com/document/d/1LapbZ5NFXPYlHevxgQA4TLvwYQ1_5PlWnTqfJD_r15A/edit?usp=sharing]
+Линк към документация за изпозлвания хибриден подход за модела за препоръки можете да намерите [тук](https://docs.google.com/document/d/1LapbZ5NFXPYlHevxgQA4TLvwYQ1_5PlWnTqfJD_r15A/edit?usp=sharing)
 
 ## Дизайн
 Дизайнът на приложението е създаден с фокус върху лесна употреба, интуитивна навигация и привлекателен визуален стил за родители и деца.
 
-Можете да разгледате нашия дизайн във Figma тук: [https://www.figma.com/design/nSWrkm11qVjXAp7fIPGcEU/FamEvently?node-id=0-1&t=FLCfdsvPvrM72PAD-1]
+Можете да разгледате нашия дизайн във Figma [тук](https://www.figma.com/design/nSWrkm11qVjXAp7fIPGcEU/FamEvently?node-id=0-1&t=FLCfdsvPvrM72PAD-1)
 
 ## Структура на репозиториите
 
@@ -90,7 +90,7 @@
 За да получите достъп като тестер на приложението, можете да ни изпратите ваш имейл по дискорд. 
 
 ### Ръчна инсталация
-Ако искате да стартирате приложението локално или да направите собствен сетъп, подробните инструкции са налични в документацията: [https://docs.google.com/document/d/1UDJXpDgBvopiO9QuQh3GDYG4UtsoZw7HyWoiqIiMRa0/edit?usp=sharing]  
+Ако искате да стартирате приложението локално или да направите собствен сетъп, подробните инструкции са налични в документацията: [тук](https://docs.google.com/document/d/1UDJXpDgBvopiO9QuQh3GDYG4UtsoZw7HyWoiqIiMRa0/edit?usp=sharing)
 
 ## Заключение
 
